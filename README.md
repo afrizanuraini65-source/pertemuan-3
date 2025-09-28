@@ -1,15 +1,15 @@
 Belajar DOM
 
 Struktur
-a. index.html → halaman utama
-b. script.js → kode JavaScript
+1. index.html → halaman utama
+2. script.js → kode JavaScript
 
 Fitur
-a. getElementById → ubah teks header
-b. getElementsByClassName → tambah class dan prefix
-c. querySelector → ubah warna latar elemen pending
-d. querySelectorAll → ganti isi semua <li>
+1. getElementById → ubah teks header
+2. getElementsByClassName → tambah class dan prefix
+3. querySelector → ubah warna latar elemen pending
+4. querySelectorAll → ganti isi semua <li>
 
 Cara Jalankan
-a. Simpan kedua file di folder yang sama
-b. Buka index.html di browser
+1. Simpan kedua file di folder yang sama
+2. Buka index.html di browser
